@@ -1,4 +1,8 @@
 def txtToDict(fileName):
+    '''These func creates dict from txt file
+    the format of txt is metter and should be created in a simple
+    text editor (textEditor – plain mode on mac)
+    1st line key, next lines are values, then double "Rerurn = \n" and new key e.t.c'''
     with open ('creatures.txt') as data:
         dataRaw = data.readlines()
     #Data to Dict
