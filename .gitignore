@@ -1,0 +1,4 @@
+ENV/
+downloads/
+img_structure/
+__pycache__/
