@@ -14,3 +14,11 @@ def txtToDict(fileName):
             dataDict[dataListTemp[0]].pop()
             dataListTemp=[]
     return dataDict
+
+def createFolderStructure(folderName):
+'''create folders with value name inside each key 
+// automatically creates KEYS folders!'''
+    for key in list(data.keys()):
+        for value in data[key]:
+            path = (folderName + '/{}/'.format(key))
+            os.makedirs(path + value)
