@@ -1,0 +1,176 @@
+Cave and underground
+Dwarf
+European dragon
+Gnome
+Goblin
+Golem
+Grootslang
+Leprechaun
+Troll
+Yaoguai
+
+Celestial and heaven
+Angel
+Asteriae
+Deva / Devi
+Feathered serpent
+Pegasus
+Grim Reaper
+Swan Maiden
+Tennin
+Three-legged bird
+Valkyrie
+
+Desert
+Amphisbaena
+Basilisk
+Cockatrice
+Ghoul
+Mongolian Death Worm
+Sphinx
+
+Temperate forest and woodland
+Ajatar
+Bigfoot
+Dryad
+Elf
+Leshy
+Green Man
+Owlman
+Unicorn
+Satyr
+Waldgeist
+
+Tropical forest and jungle
+Curupira
+Dingonek
+Mapinguari
+Man-eating tree
+Manticore
+Saci
+Umdhlebi
+
+Temperate grassland and garden
+Fairy
+Gnome
+
+Savanna
+Ennedi tiger
+Werehyena
+
+Lake and river
+Ahuitzotl
+Bunyip
+Chinese dragon
+Dobhar-chú
+Encantado
+Grootslang
+Iara
+Jiaolong
+Kappa
+Kelpie
+Lake monster
+Hydra
+Loch Ness Monster
+Mizuchi
+Naiad
+Nixie
+Ogopogo
+Ondine
+Rainbow serpent
+Rusalka
+Ryujin
+Shellycoat
+Warlock
+Yacuruna
+
+Mountain and hill
+Dwarf
+Fenghuang
+Griffin
+Hippogriff
+Mountain Giant
+Olitiau
+Oread
+Patupaiarehe
+Satyr
+Tengu
+Yeti
+
+Sea
+Bishop-fish
+Charybdis
+Dragon King
+Fish People
+Hippocamp
+Leviathan
+Jormungand
+Kraken
+Mermaid / Merman
+Nereid
+Sea monk
+Sea monster
+Sea serpent
+Selkie
+Shen
+Siren
+Tritons
+Umibōzu
+Water Dragon
+Yacuruna
+
+Swamp and marsh
+Bunyip
+Grootslang
+Lernaean Hydra
+Honey island swamp monster
+Mokele-mbembe
+Swamp monster
+Will-o'-the-wisp
+
+Volcano and lava
+Cherufe
+Phoenix
+Salamander
+
+Polar, ice, and winter
+Akhlut
+Amarok
+Barbegazi
+Hrimthurs
+Ijiraq
+Jotun
+Qiqirn
+Saumen Kar
+Tizheruk
+Wendigo
+Yeti
+Ymir
+Yuki-onna
+
+Urban and house
+Banshee
+Boggart
+Brownie
+Domovoi (Slavic house spirit)
+Dvorovoi (Slavic yard spirit)
+Duende
+Jinn
+Kobold
+Tomte
+Vampire
+Zashiki-warashi
+
+Underworld and hell
+Ammit
+Cerberus
+Cyclops
+Demon
+Devil
+Earth Dragon
+Garm
+Hekatonkheires
+Hellhound
+Ifrit
+Ox-Head and Horse-Face
+Preta
