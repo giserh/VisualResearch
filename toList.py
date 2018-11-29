@@ -1,4 +1,4 @@
-def txtToDict(fileName):
+def txtToDict():
     '''These func creates dict from txt file
     the format of txt is metter and should be created in a simple
     text editor (textEditor – plain mode on mac)
@@ -22,6 +22,7 @@ def txtToDict(fileName):
 
 def createFolderStructure():
 #create folders with value name inside each key automatically creates KEYS folders!
+#or just creates folder structure from data
     for key in list(data.keys()):
         for value in data[key]:
             path = ('structure/{}/'.format(key))
